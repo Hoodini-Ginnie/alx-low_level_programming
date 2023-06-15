@@ -1,10 +1,13 @@
 #include <studio.h>
+
 /**
- * Main - Entry point.
+ * main - prints "with proper grammar, but the outcome is a piece of art."
  * Return: Always 0.
  */
+
 int main(void)
+
 {
-	printf("with proper grammer, but the outcome is a piece of art, In");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
