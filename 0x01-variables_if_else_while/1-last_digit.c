@@ -3,10 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * Description: print the value of n status:
- *		greater than, is zero and is not less than 6
+ * main - prints the last digit of a randomly generated number
+ *nand whether  it is greater than 5, less than 6 or 0.
  *
  * Return:Always 0 (success)
 */
