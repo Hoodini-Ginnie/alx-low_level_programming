@@ -2,7 +2,7 @@
 
 /**
  * _isupper - Check if a letter is upper
- * @x:nThe number to be checked
+ * @x: The number to be checked
  * Return: 1 for upper letter or 0 for any else
  */
 
@@ -13,5 +13,5 @@ int _isupper(int x)
 	{
 	return (1);
 	}
-	return(0);
+	return (0);
 }
