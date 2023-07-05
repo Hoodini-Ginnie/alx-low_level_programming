@@ -6,7 +6,7 @@ int _strlen_recursion(char *s);
 /**
  * is_palindrome - checks if a string is a palindrome
  * @s: string to reverse
- * Return: 1 if it is, 0 if it is not
+ * Return: 1 if it is, 0 if not
  */
 
 int is_palindrome(char *s)
@@ -19,8 +19,8 @@ int is_palindrome(char *s)
 
 /**
  * _strlen_recursion - returns the length of a string
- * @s: string to calculate the lengt
- * Return: lengt of a string
+ * @s: string to calculate the length
+ * Return: length of a string
  */
 
 int _strlen_recursion(char *s)
