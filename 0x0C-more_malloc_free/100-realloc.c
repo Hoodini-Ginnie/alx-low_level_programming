@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * realloc - reallocates a memory block
+ * _realloc - reallocates a memory block
  * @ptr: pointer to the memory allocated with malloc(old_size)
  * @old_size: size in bytes of the allocated space of ptr
  * @new_size: new size, in bytes of the new memory block
